@@ -7,17 +7,13 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
 
-            Console.WriteLine("Введите первое число");
+          /* Console.WriteLine("Введите первое число");
 
-            string str = Console.ReadLine();
-
-            int a = Convert.ToInt32(str);
-
+            double firstValue = double.Parse(Console.ReadLine());
+                       
             Console.WriteLine("Введите второе число");
 
-            string str1 = Console.ReadLine();
-
-            int b = Convert.ToInt32(str1);
+           double secondValue = double.Parse(Console.ReadLine());
 
             Console.WriteLine("Введите третье число");
 
@@ -31,7 +27,23 @@ namespace ConsoleApp1
 
             Console.WriteLine("Сумма чисел равна " + result);
 
-            Console.WriteLine("Произведение чисел равно " + result1);
+            Console.WriteLine("Произведение чисел равно " + result1);*/
+
+            // 1 евро 25 рублей 
+
+            double usdToRub = 64.52;
+
+            double usdToUah = 27.25;
+
+            double usd;
+
+            Console.WriteLine("Введите сумму в USD");
+
+            usd = double.Parse(Console.ReadLine());
+
+            Console.WriteLine(usd + " долларов " + "в рублях равно " + (usd * usdToRub));
+            Console.WriteLine(usd + " долларов " + "в гривне равно " + (usd * usdToUah));
+
 
 
         }

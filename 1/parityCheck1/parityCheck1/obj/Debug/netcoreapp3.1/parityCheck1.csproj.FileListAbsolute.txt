@@ -1,0 +1,12 @@
+C:\Users\Sergeant\Desktop\рабочая\study html,css,java script\C#\1\parityCheck1\parityCheck1\bin\Debug\netcoreapp3.1\parityCheck1.exe
+C:\Users\Sergeant\Desktop\рабочая\study html,css,java script\C#\1\parityCheck1\parityCheck1\bin\Debug\netcoreapp3.1\parityCheck1.deps.json
+C:\Users\Sergeant\Desktop\рабочая\study html,css,java script\C#\1\parityCheck1\parityCheck1\bin\Debug\netcoreapp3.1\parityCheck1.runtimeconfig.json
+C:\Users\Sergeant\Desktop\рабочая\study html,css,java script\C#\1\parityCheck1\parityCheck1\bin\Debug\netcoreapp3.1\parityCheck1.runtimeconfig.dev.json
+C:\Users\Sergeant\Desktop\рабочая\study html,css,java script\C#\1\parityCheck1\parityCheck1\bin\Debug\netcoreapp3.1\parityCheck1.dll
+C:\Users\Sergeant\Desktop\рабочая\study html,css,java script\C#\1\parityCheck1\parityCheck1\bin\Debug\netcoreapp3.1\parityCheck1.pdb
+C:\Users\Sergeant\Desktop\рабочая\study html,css,java script\C#\1\parityCheck1\parityCheck1\obj\Debug\netcoreapp3.1\parityCheck1.AssemblyInfoInputs.cache
+C:\Users\Sergeant\Desktop\рабочая\study html,css,java script\C#\1\parityCheck1\parityCheck1\obj\Debug\netcoreapp3.1\parityCheck1.AssemblyInfo.cs
+C:\Users\Sergeant\Desktop\рабочая\study html,css,java script\C#\1\parityCheck1\parityCheck1\obj\Debug\netcoreapp3.1\parityCheck1.csproj.CoreCompileInputs.cache
+C:\Users\Sergeant\Desktop\рабочая\study html,css,java script\C#\1\parityCheck1\parityCheck1\obj\Debug\netcoreapp3.1\parityCheck1.dll
+C:\Users\Sergeant\Desktop\рабочая\study html,css,java script\C#\1\parityCheck1\parityCheck1\obj\Debug\netcoreapp3.1\parityCheck1.pdb
+C:\Users\Sergeant\Desktop\рабочая\study html,css,java script\C#\1\parityCheck1\parityCheck1\obj\Debug\netcoreapp3.1\parityCheck1.genruntimeconfig.cache
